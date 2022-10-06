@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANiRuDdHa1211
-- 👀 I’m interested in ...Web Development, Blockchain
-- 🌱 I’m currently learning ...Web Development, Blockchain
+- 👀 I’m interested in ...Backend Development, Web Development
+- 🌱 I’m currently learning ...Backend Development, Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
